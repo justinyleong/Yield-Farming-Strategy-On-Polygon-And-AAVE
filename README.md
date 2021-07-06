@@ -26,6 +26,6 @@ Follows the strategy as listed in the submission requirements.
 - `harvest` allows the user to collect their "crops," thereby claiming rewards from all platforms, repaying all loans, and withdrawing from Aave
 
 ## Note
-Thank you so much for hosting this bounty! This was a great first introduction for me to defi, yield farming, and dapp development itself 😅. Learning everything in such a short time was something that I certainly won't forget. 
+Thank you so much for hosting this bounty! This was a great first introduction for me to defi, yield farming, and dapp development itself 😅. Learning everything in such a short time is something that I certainly won't forget. 
 
 
