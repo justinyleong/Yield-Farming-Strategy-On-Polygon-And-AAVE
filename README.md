@@ -28,4 +28,8 @@ Follows the strategy as listed in the submission requirements.
 ## Note
 Thank you so much for hosting this bounty! This was a great first introduction for me to defi, yield farming, and dapp development itself 😅. Learning everything in such a short time is something that I certainly won't forget. 
 
+## Edit: 2022
+Hi everyone! This project has not been touched for a while, so feel free to contact me if you wish to continue the work. Currently, the defi space is still rapidly expanding, so this is a good starter project for anyone interested. Here are some helpful links about the topic:
+
+[LINK](https://cryptonews.com/news/defi-news/)
 
